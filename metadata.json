@@ -1,0 +1,6 @@
+{
+  "name": "Rutas de Camiones Popayán",
+  "description": "Calculador de rutas y simulador de transporte para camiones en Popayán, Cauca. Planifica rutas óptimas respetando el sentido de las vías de la ciudad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
